@@ -1,5 +1,5 @@
 {
-	"videos": [{
+	"myvideos": [{
 			"title": "Test Video 1",
 			"coverUrl": "https://cover-url",
 			"videoUrl": "https://video-url"
