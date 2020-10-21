@@ -1,0 +1,18 @@
+{
+	"videos": [{
+			"title": "Test Video 1",
+			"coverUrl": "https://cover-url",
+			"videoUrl": "https://video-url"
+		},
+		{
+			"title": "Test Video 2",
+			"coverUrl": "https://cover-url",
+			"videoUrl": "https://video-url"
+        },
+        {
+			"title": "Test Video 3",
+			"coverUrl": "https://cover-url",
+			"videoUrl": "https://video-url"
+		}
+	]
+}
