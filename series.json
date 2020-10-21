@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "name": "Movies",
+      "videos": [
+        {
+          "description": "This is a description you can write anything here",
+          "sources": 
+            "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+          "subtitle": "By Stream India",
+          "thumb": "https://ipl2020schedule.co.in/wp-content/uploads/2019/07/Vivo-IPL-2020-Schedule.jpg",
+          "title": "IPL 2020"
+        },
+        {
+          "description": "This is a description you can write anything here",
+          "sources": 
+            "https://drive.streamindia.workers.dev/Web%2520Series/Zee5/Abhay/Season%25202/%5B%40StreamIndia%5D%2520E01%2520Brain%2520Soup.mkv",
+          "subtitle": "By Stream India",
+          "thumb": "https://ipl2020schedule.co.in/wp-content/uploads/2019/07/Vivo-IPL-2020-Schedule.jpg",
+          "title": "IPL 2019"
+        },
+        {
+          "description": "This is a description you can write anything here",
+          "sources": 
+            "https://drive.streamindia.workers.dev/Web%2520Series/Zee5/Abhay/Season%25202/%5B%40StreamIndia%5D%2520E01%2520Brain%2520Soup.mkv",
+          "subtitle": "By Stream India",
+          "thumb": "https://ipl2020schedule.co.in/wp-content/uploads/2019/07/Vivo-IPL-2020-Schedule.jpg",
+          "title": "IPL 2018"
+        }
+      ]
+    }
+  ]
+}
