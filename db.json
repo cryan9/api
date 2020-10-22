@@ -6,7 +6,7 @@
         {
           "description": "Join Our Telegram Channels @WeStreamIndia & @RainOfDeals to Watch Mirzapur 2 Before Everyone Else",
           "sources": 
-            "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/JeZijP8apOMNy0zw0DMfqOQMQNhZpSyf-VP7rJASvQIngGCBDrR1bkVrD4E_jekPIunaemmMXQDWW4X0Z2t7Bg/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/dynamic_hlsproducer.m3u8?type=live",
+            "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8",
           "subtitle": "By Stream India",
           "thumb": "https://news.blr.com/app/uploads/sites/3/2018/07/Demo-5.jpg",
           "title": "Demo Video 1"
@@ -14,7 +14,7 @@
         {
           "description": "Join Our Telegram Channels @WeStreamIndia & @RainOfDeals to Watch Mirzapur 2 Before Everyone Else",
           "sources": 
-            "https://prod-fastly-ap-northeast-2.video.pscp.tv/Transcoding/v1/hls/_aIgfwVzyNfr1CDHm8RFMm-Lo4EYob7-V4mXHvN4NOTH-sRabHRtKle8L_0yh1FZ5CeONWvV5icOTOwHRGqR0w/non_transcode/ap-northeast-2/periscope-replay-direct-prod-ap-northeast-2-public/dynamic_hlsproducer.m3u8?type=live",
+            "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8",
           "subtitle": "By Stream India",
           "thumb": "https://news.blr.com/app/uploads/sites/3/2018/07/Demo-5.jpg",
           "title": "Demo Video 2"
